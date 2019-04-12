@@ -2,4 +2,9 @@ this is a test from pinerchen-ecv
 
 "noteback to master"
 
-"git add file to stage"
+"git add file to stage" --no updated
+
+
+git add first then modify the file
+
+git add should be later then file modification, then commit" Let's test it!
