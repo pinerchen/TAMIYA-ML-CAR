@@ -8,3 +8,9 @@ this is a test from pinerchen-ecv
 git add first then modify the file
 
 git add should be later then file modification, then commit" Let's test it!
+
+Workflow:
+1. modify files
+2. add files to temp-disk
+3. commit
+4. push
